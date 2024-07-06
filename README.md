@@ -23,7 +23,7 @@ This introductory repository will expose you to learn how does ONNX and Hugging 
 ## Learning Resources
 
 There are a few sources that are useful to dive deeper into working with ONNX and Hugging Face. Here are a few you can explore:
-
+  https://www.youtube.com/playlist?list=PLmsFUfdnGr3wTl-NCblzcrEv2lFSX975-
 - [The ONNX Model Zoo](https://github.com/onnx/models)
 - [Exporting to ONNX - Hugging Face documentation](https://huggingface.co/docs/transformers/serialization)
 - [Main ONNX landing page ](https://onnx.ai/)
